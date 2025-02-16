@@ -30,5 +30,11 @@ This repository contains a Movie Recommendation System built using Python and Ju
 ## Contributing
 Feel free to contribute by opening issues or submitting pull requests.
 
+## Snapshots
+![Screenshot (138)](https://github.com/user-attachments/assets/6fb1ae22-22ab-4617-a423-7ffad9d64f67)
+![Screenshot (137)](https://github.com/user-attachments/assets/e754a64f-0a7d-4756-ac3f-91d8b9e15e23)
+
+
+
 ## License
 This project is licensed under the MIT License.
